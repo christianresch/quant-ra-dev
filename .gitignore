@@ -3,3 +3,6 @@ quant-ra/
 
 // Test data
 test-data/
+
+// MacOS
+.DS_Store
